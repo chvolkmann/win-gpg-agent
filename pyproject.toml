@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "win_gpg_agent"
-version = "0.1.0"
+version = "0.1.1"
 description = "Utility for tunnelling gpg-agent and ssh-agent from Windows to WSL."
 authors = ["Christian Volkmann <ch.volkmann@gmail.com>"]
 readme = 'README.md'
